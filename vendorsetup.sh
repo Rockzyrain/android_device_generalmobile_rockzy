@@ -1,0 +1,3 @@
+add_lunch_combo lineage_rockzy-eng
+add_lunch_combo lineage_rockzy-user
+add_lunch_combo lineage_rockzy-userdebug

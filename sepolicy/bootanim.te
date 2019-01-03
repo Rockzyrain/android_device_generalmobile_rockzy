@@ -1,0 +1,2 @@
+allow bootanim mpctl_socket:dir search;
+allow bootanim system_data_file:dir { open read getattr };
